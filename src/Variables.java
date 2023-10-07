@@ -1,15 +1,15 @@
 public class Variables {
     public static void main(String[] ars) {
-        String g = "gabi";
-        int a = 3;
-        double f = 2.4;
-        System.out.println(g);
-        System.out.println(a);
-        System.out.println(f);
-        System.out.println("Prograsm variables: g = " + g + ",");
-        System.out.println("program variables: a = " + 3 + ",");
-        System.out.println("program variables: f = " + 2.4 + ",");
+        long CurrentWorldPopulation = 7811080815L;
+        int CarsProducedThisYear = 55235358;
+        String FirstLetterInAlphabet = "A";
+        boolean JavaIsAmazing = true;
+        double Pi = 3.14159;
 
-
+        System.out.println(CurrentWorldPopulation);
+        System.out.println(CarsProducedThisYear);
+        System.out.println(FirstLetterInAlphabet);
+        System.out.println(JavaIsAmazing);
+        System.out.println(Pi);
     }
 }
